@@ -47,6 +47,8 @@ impl Snake {
             y,
         });
 
+
+
         Snake {
             direction: Direction::Right,
             body,
